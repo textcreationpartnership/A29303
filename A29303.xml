@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short declaration of the purpose and decree of the everlasting counsel of Gods heavenly host concerning his royal seed, and noble off-spring, the eternal plant of his own renown, the everlasting covenant of light, and of the arraignment of all that wilfully oppose and fight against it, at the barr of Gods righteous judgement : with a warning to them to repent, and to fear and dread the infinite, eternal God, who will undoubtedly set up His Son, His light, life, spirit, and seed over all to reign in the pure dominion and authority in the kingdoms of men.</title>
+            <author>Brend, William, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29303</idno>
+            <idno type="STC">Wing B4360</idno>
+            <idno type="STC">ESTC R3134</idno>
+            <idno type="EEBO-CITATION">12782539</idno>
+            <idno type="OCLC">ocm 12782539</idno>
+            <idno type="VID">93842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93842)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 708:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short declaration of the purpose and decree of the everlasting counsel of Gods heavenly host concerning his royal seed, and noble off-spring, the eternal plant of his own renown, the everlasting covenant of light, and of the arraignment of all that wilfully oppose and fight against it, at the barr of Gods righteous judgement : with a warning to them to repent, and to fear and dread the infinite, eternal God, who will undoubtedly set up His Son, His light, life, spirit, and seed over all to reign in the pure dominion and authority in the kingdoms of men.</title>
+                  <author>Brend, William, d. 1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.B.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Royal office.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93842:1"/>
+            <pb facs="tcp:93842:1" rendition="simple:additions"/>
+            <p>A SHORT DECLARATION OF THE PURPOSE and DECREE Of the Everlaſting Counſel of Gods Heavenly Hoſt concerning his Roy<g ref="char:EOLhyphen"/>al Seed, and Noble Off-ſpring, the Eternal Plant of his own Renown, the Everlaſting COVENANT of LIGHT; AND OF THE Arraignment of all that wilfully oppoſe and fight againſt it, at the Barr of Gods Righteous Judgement; WITH A WARNING To them to Repent, and to fear and dread the Infinite, Eternal God, who will undoubtedly ſet up his Son, his Light, Life, Spirit, and Seed over all to Reign in the pure Dominion and Authority in the Kingdoms of Men.</p>
+            <p>Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:93842:2" rendition="simple:additions"/>
+            <head>A ſhort Declaration of the Purpoſe and Decree, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſure, firm, and everlaſting decree and Coun<g ref="char:EOLhyphen"/>ſel of the Heavens, is that the ſeed of the ever<g ref="char:EOLhyphen"/>laſting Covenant of the everlaſting God ſhall worſhip the Lord God of Hoſts, the everlaſting Jehovah; and it is determined in the moſt High and Supream Court of the Eternal power that created the Heavens, Earth, and Sea, and all things therein, that all other things whatſoever, which are the inventions of the moſt wiſe of the ſons of men, ſhall all be ſeparated from the pre<g ref="char:EOLhyphen"/>ſence of the moſt holy God as a polluted thing, and as a menſtru<g ref="char:EOLhyphen"/>ous cloth: and this is the firm and everlaſting Counſel, Decree, Purpoſe and Determination of the Father, Son, and Spirit, which are one, and cannot be divided in none of the appearances unto the ſons of men unto this day and for ever; unto which Counſel, Decree, Purpoſe, and Determination, all the holy men of God, and holy Angles, and miniſtring Spirits from the holy meaſure of the Inſpiration of the moſt High, do in the Clear Light of the Eternal power give their due and lawful and juſt aſſent as in duty they are bound and obliged thereto, and ſo ſet their ſeals unto it, which ſeal is the meaſure of the ſame Spirit of the Father and Son, which is freely given, and they have received of God to wor<g ref="char:EOLhyphen"/>ſhip him by, which ſhall ſtand for ever; and this Decree ſhall ſtand upon the heads of all falſe worſhippers in the whole world, whether called Heathens or Chriſtians, and all that ſeem to hold the Truth, but in unrighteouſneſs: Yea all Sects in the whole world, whether <hi>Europe, Aſia, Affrica,</hi> or <hi>America,</hi> unto which ſeed of the everlaſting God you muſt all bow and yeild obedience unto, either freely offering up all unto it, as of due right belongs, or be broken by the irreſiſtible Soveraignty of its Authority and ſtrength, which is for to ſlay the wicked, and make them all to bend by his Eternal wrath, judgement, and indignation, which is due to the rebellious and diſobedient, which will not yeild in obedience to this Noble and Royal ſeed and off-ſpring of the infinite mercy of the Eternal God, who hath ſet it more firm then the Heavens which muſt paſs away and be rolled together as a ſcroul, and then the earth which muſt be burnt up, and all things
+<pb n="3" facs="tcp:93842:2" rendition="simple:additions"/>muſt be diſſolved by the power of him who made Heaven and Earth, and all things to ſerve him and his, for his own glory, and the wicked are for the day of the wrath of this Lamb of God, which takes away the ſins of all who believe in him, and come into obedience to his power, which works in them that they may receive his virtue, by which alone they worſhip the Lord, who hath manifeſted it for the ſame end to glorifie him by; and none of all the Counſels and workings againſt it ſhall ſtand; for if all the Counſels, Plottings, Laws, Edicts and Commands of Popes, Cardinals, Biſhops, Emperours, Kings and Synods, of one, or divers, or all Nations of the whole world ſhould agree in one, as one ſingle body compact; and all the Nations of people con<g ref="char:EOLhyphen"/>cerned in the ſame, and ſo all agreed as one man to aid, aſſiſt, either by force of arms, or any other way by words, or argu<g ref="char:EOLhyphen"/>ments, or writings, ſecretly, or openly againſt this firm Decree, Purpoſe, and Counſel of the Heavenly Hoſt, ſhall be brought to nought and confounded by the Power, Dominion, and Authori<g ref="char:EOLhyphen"/>ty of this high born Prince of Peace, who is of the Royalty of the Infinite Majeſty of the moſt High God, whoſe Word abides and endures for ever and ever, which is the ſeed of everlaſting bliſs, and in which ſeed all the Nations of the earth ſhall be bleſſed: and this ſeed ſhall have the Dominion, whoſe right alone it is, and to it all the Dominions and Kingdoms of the whole World belongs; and therefore there hath been ſo many overturns, overturns, and muſt be till he be acknowledged whoſe right it is, and his Royal Scepter bowed down unto, which is a Scepter of Righteouſneſs: And therefore Nations and Kingdoms, and in<g ref="char:EOLhyphen"/>habitable parts of the whole earth, look not for peace whilſt your whoredomes remain; for you are all gone a whoreing from this Noble and Renowned ſeed, the Covenant of God, which is his Light that you ſhould be united to, and receive the Law from his mouth which is the husband you are to ask at home in your own hearts, where his wiſdom is to be received, and Counſel againſt all that riſeth up there to oppoſe the purity and Righteouſneſs of his Law, and the Royalty and Soveraignty of his power: the Light there to rule over all your thoughts and imaginations, words and actions; by which Light you ſhould be ruled and ordered to the glory and renown of his Everlaſting Kingdom; And therefore in the meaſure of this ſeed (which is the Light in
+<pb n="4" facs="tcp:93842:3" rendition="simple:additions"/>the Conſcience) you muſt believe and own, and receive its Te<g ref="char:EOLhyphen"/>ſtimony, if you will come to the knowledge of him who lives for ever, and that leads to the knowledge of the Power, Dignity, Soveraignty, Dominion, and Authority, Virtue, Excellency, Glory, and Renown, and the Nobleneſs of its diſſent, birth, being, growth, and increaſe which is to have no end, and the glory of its going forth which hath been from everlaſting, and is alone the Fathers delight, and was, and is manifeſted to do the Fathers will, and to ſet up the Fathers Kingdom; which Kingdom is in Righteouſneſs, Juſtice, Equity, Mercy, true Judgement, Lowli<g ref="char:EOLhyphen"/>neſs, Tenderneſs, Love Unfeigned, and all Virtue, Holineſs, and Truth, which is to proceed from the heart, placed there by the Righteous power of the infinite God, where no deceit nor guile ſhall dwell, nor no unclean thing have a being; but Righteouſ<g ref="char:EOLhyphen"/>neſs and Holineſs in every part of the members of that body of which Chriſt is the head, and ſubjects of that Kingdom which en<g ref="char:EOLhyphen"/>dures for ever and ever.</p>
+            <p>Therefore, O ye Judges, Juſtices, Councils and Counſellors, Law-makers and Executors of the ſame againſt the Innocent ones, which bear this ſeed, that you would hear, fear, and dread, tremble and be aſtoniſhed in the conſideration of the riſing up of that power which is from the ſeed that ſhall accuſe you before the great and dreadful throne of the Mighty and dreadful God, for your riſing up falſly to accuſe and paſs unrighteous judge<g ref="char:EOLhyphen"/>ment againſt them which act according to the ſeed, and have hindred the goings forth of it to do the Fathers will (as much as in you hath layn) but before him your nicities and punctillioes, nor ſubtleties of you the wiſe Diſputers, Lawyers, and Coun<g ref="char:EOLhyphen"/>ſellors, and Learned Judges of the Earth ſhall ſtand you in no ſtead, when you are called to the Barr of his Divine Judgement, and to give a True, Juſt, and Clear anſwer to the True and In<g ref="char:EOLhyphen"/>fallible Bill of Indictment preferred againſt you by the Infallible witneſs of the Eternal Light of the Everlaſting God in your Conſciences, which Bill will be found againſt you by the Grand Jury of Gods holy Martyrs, which have ſuffered by you for this ſeeds ſake, and have ſealed to it with their blood, by your pre<g ref="char:EOLhyphen"/>tended, fallible, falſe, infamous Bills of Indictment againſt them, which will add much to your Condemnation; for the Light hath, and will clear them before the Throne of God againſt you;
+<pb n="5" facs="tcp:93842:3" rendition="simple:additions"/>and it will charge you for high Treaſon againſt the King of Kings, and Lord of Lords the Everlaſting Jehovah; and before him you muſt all appear and give an account of every deed done in your body; and if you have any thing to ſay for your ſelves, you will finde more favour, though you be guilty, then the In<g ref="char:EOLhyphen"/>nocent have had from you, when they have been brought and falſly accuſed before you for Diſturbers, and Tumulters, and to meet with force and arms, when they have been meeting together to ſerve the Lord in obedience to the ſeed of Light, and ſo have been worſhipping the Living God in peace and quietneſs, and believing in his True and Faithful Witneſs the Light of his Son Chriſt Jeſus [in them] which is the hope of glory, which you have perſecuted them for; and therefore I know you ſhall all be dumb before the Pure, Juſt, Righteous, and Holy Judge of all the Earth, whoſe nature is to do Righteouſly, and he will do no other, but render to every man according to his deeds, whether they be good or evil; and therefore the charge preferred, and the witneſs to prove the ſame ſhall be ſo clear and evident; for the Accuſer and the Witneſs knows your ſecret workings, and is free from any guite or deceit, or any deſire of revenge, or ſeek<g ref="char:EOLhyphen"/>ing your deſtruction as you are men, as you do, and have done to the Innocent; but being perfectly pure, and infallibly true, juſt and merciful, ſeeks and hath ſought your Salvation and Pre<g ref="char:EOLhyphen"/>ſervation, and doth ſeek your Repentance from thoſe dead works; of which the witneſs of God can do no leſs then bear witneſs againſt, and accuſe you before the Throne of the Infinite Majeſty on high, which hath manifeſted it from himſelf for that end that man might believe in it, and by it to turn from the evil Works, and to receive the Teſtimony of that Everlaſting Witneſſe, that by it they may be led to do the Works of Righteouſneſſe, which is to be to the praiſe and Glory of his Grace that hath ſo freely given his Light, his Witneſſe, in men) to lead from the Evill to the Good: And therefore, the ſtanding againſt the Light (the Witneſſe and Accuſer, and wilfully, and maliciouſly reſiſting of it, and hating its Reproof, it can do no leſſe than do its Office, and ſtand up and witneſſe againſt the Priſoners a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Bar of Gods righ<g ref="char:EOLhyphen"/>teous Judgments, and ſpread the cauſe againſt them before the Righteous Judge, who can do no other than receive the Righte<g ref="char:EOLhyphen"/>ous
+<pb n="6" facs="tcp:93842:4" rendition="simple:additions"/>witneſſe of his own Seed the Light from himſelf, which teſtifies that they have wilfully and maliciouſly made void his Righteous Law [the Light] by their own Traditions and inven<g ref="char:EOLhyphen"/>tions, their corrupt wills ſet up, to make void (if they could) the unerring will of God, and have wickedly, by the inſtigation of the Devil riſen up in a high contempt of his infinite Majeſties Crown, and Dignity, and Royal Scepter of his everlaſting Righteouſneſs, in ſetting up of their own Righteouſneſſe, their feigned and invented worſhips, and their unrighteous luſts, their pride and covetouſneſs, which is the root of many more evils; and therefore are they ignorant of Gods Righteouſneſs, which is the glorious goings forth of his Eternal Power, by the bright ſhining of his Light and Spirit, which leads all that believe to worſhip him in the ſame; which theſe have by the force of the arm of Fleſh, with Inſtruments of Carnal Weapons ſought to fruſtrate, and make his Counſel and purpoſe of none effect, and have ſought to over<g ref="char:EOLhyphen"/>throw his whole work from the beginning unto this days both by the miniſtration of Angels, and of <hi>Moſes</hi> and the Prophets; and of the glorious manifeſtation of his Son in the fleſh, and of the glory of his <hi>ſpirit</hi> in his <hi>Apoſtles</hi> and Servants in the Churches, after his <hi>Aſcention,</hi> and the glorious Records of all the <hi>holy men of God,</hi> the Scriptures of Truth, and of their Prophecies of the pourings forth of the abundance of the Spirit of the Lord God upon his Sons and Daughters in the latter dayes, and in the Laſt dayes, in which we are fallen, according to Chriſt our Lords Saying to the Woman <hi>of</hi> Samaria, <hi>The time is, and ſhall be, that the true Worſhipers ſhall worſhip the Father in Spirit and Truth, for the Father ſeeketh ſuch to worſhip him:</hi> and this is fulfilled, and fulfilling in this the day of our God; and this is Gods Prerogative Royal, that all his Worſhippers ſhould worſhip him in his ſpirit and Life of his noble Seed, which you Biſhops, Judges, and Rulers of the Earth, and worldly Powers of the Darkneſſe of this World ſeek to make void by your Inventions and Traditions, and to binde the Conſciences, and would ſet Judges there by your Edicts, Canons, and Articles, and Books, in Gods Throne and Seat; and would at the leaſt ſet your poſts by Gods poſt, and your Threſholds by Gods Threſhold; and would thruſt out and binde down the Glorious Workings of the pure Power of the Spirit of the LORD GOD in the Hearts and Conſciences of his People;
+<pb n="7" facs="tcp:93842:4" rendition="simple:additions"/>And therefore you are and will be found guilty before the Lord, of high Treaſon againſt Him and his Son, whom he hath appoint<g ref="char:EOLhyphen"/>ed Heir of all things, and is the head of his Church which he hath purchaſed with his own blood [which you trample upon] and ſo being bought with ſuch a price they are not to be the ſervants of men, no, not to touch, nor taſte, nor handle the Commande<g ref="char:EOLhyphen"/>ments, nor Doctrines of men, which have a voluntary humility and pretence to worſhip God, but it is in a falſe manner, and not in the ſeed of life; and this have you done, and are doing, teach<g ref="char:EOLhyphen"/>ing <hi>for Doctrines the Commandements of men,</hi> in this the day of the Lord, wherein he hath Redeemed and is redeeming of a People from all mens Traditions and inventions, in his worſhip and ſer<g ref="char:EOLhyphen"/>vice: And becauſe this people fear the Lord, and obey his Son, which is his power in them, by which they worſhip him in whom he is well-pleaſed; therefore do you (<hi>Cain</hi>-like) hate and revile them, beat, knock down, wound, kill, and deſtroy, impriſon, op<g ref="char:EOLhyphen"/>preſſe, emulate, malign, diſpiſe, moleſt, fine, and keep in ſore Cap<g ref="char:EOLhyphen"/>tivity by your inſtruments, and ſo you are fighters againſt the Lord, and kickers againſt the pricks, the Light both in your own Conſciences, and in them that obey it; and you are willfull Reſiſters of the of Holy One of <hi>Iſrael,</hi> and therefore you cannot proſper, but ſtand guilty before the Lord, and muſt expect the ſeverity of his indignation to be poured forth upon you, except you ſpeedily repent, and confeſſe, and forſake your Traſons and Rebellions againſt his Royal Law, Crown, and Scepter, the Son, his Light, which muſt rule over all the powers of the whole Earth, the immortal Seed of his Everlaſting Kingdom which ſhall honour him for ever and ever. And therefore be wiſe O ye Kings and Judges of the Earth; <hi>Kiſſe the Son, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſt he be angry with you, and ye periſh from the way,</hi> in which kiſſing of the Son, you may finde mercy, which is more then many have had from you, which have been innocent, and have been kept in the holy fear of the Lord God, and you have cauſed them to ſuffer for the ſame, when they have been clear of offence before the Lord, and alſo in the eye of any juſt and equal Law of the Land; and therefore take heed that you touch not his anoynted, and do his Prophets no harm, and conſult not againſt them, nor make no unrighteous Decree againſt the innocent People of the Lord, called Quakers; for this is the ſaying of the Spirit of the
+<pb n="8" facs="tcp:93842:5" rendition="simple:additions"/>Lord unto you, and to all that ſit in counſel againſt them, My purpoſe it ſhall ſtand: and my Counſel is, that you obey my unalterable decree concerning my ſeed; for what you do againſt me in my People, I will turn it to my praiſe, and my Peoples good; and your rage I will reſtrain, though you in your hearts intend evil to me and my people, it is in my people to believe that whatever you intend to do with them, I intend their good: though I may try their faith, hope, confidence, and truſt, by you, that you may know of their faith, hope, Confidence and truſt ſtands in Me, and in my Son, who is my Light and Life, the power of my right Hand and Arme revealed in them, which they know hath been their ſtrength in the times of their needs, in which I have made them to truſt, when your violence hath been upon them; and therefore they are made willing to ſuffer, and to undergo whatſoever I ſuffer you to inflict upon them: For I reſtrain your rage that would go forth out of your wicked hearts againſt them to deſtroy: But I will preſerve them by the word of wy power and Life, and chain your wicked, revengfull ſpight againſt me in them, and make it turn to their joy and your torment; and a Crown of deliverance they ſhall wear, and you of ſhame and contempt, except you repent; though you in counſel ſit, your ends to bring to paſſe againſt my people which in my truth do ſtand, I ſit and ſee, and you behold; to fruſtrate all your intents, I will not be wanting. <hi>Wo unto them that decree unrighteous Decrees,</hi> and that write grievouſneſſe which they have preſcribed, <hi>to turn aſide the needy from judgment, and to take away the right from the poor, that widows may be their prey, and that rob the fatherleſſe:</hi> Behold, the Lord God will come with a ſtrong hand, and his arme ſhall rule him; behold his reward is with him, and his work before him, and he ſhall feed his Flock like a ſhepherd, he ſhall gather his Lambs in his armes, and carry them in his boſome, and ſhall gently lead thoſe that are with young, <hi>Iſay.</hi> 10.1, 2.40.10, 11. Chriſt the Arm of God ſhall rule and feed his Flock, and gather the Lambs with his Arme (the Light) and carry them in his boſome, and gently lead the young with his Love and Life, the <hi>Seed which is immortal.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The</hi> 8th <hi>Moneth,</hi> 1662.</date>
+               </dateline>
+               <signed>W. B.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:93842:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
